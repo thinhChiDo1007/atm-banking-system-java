@@ -1,0 +1,29 @@
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\bin\Debug\net6.0\Task xy.exe
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\bin\Debug\net6.0\Task xy.deps.json
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\bin\Debug\net6.0\Task xy.runtimeconfig.json
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\bin\Debug\net6.0\Task xy.dll
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\bin\Debug\net6.0\Task xy.pdb
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\obj\Debug\net6.0\Task xy.csproj.AssemblyReference.cache
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\obj\Debug\net6.0\Task xy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\obj\Debug\net6.0\Task xy.AssemblyInfoInputs.cache
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\obj\Debug\net6.0\Task xy.AssemblyInfo.cs
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\obj\Debug\net6.0\Task xy.csproj.CoreCompileInputs.cache
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\obj\Debug\net6.0\Task xy.dll
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\obj\Debug\net6.0\refint\Task xy.dll
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\obj\Debug\net6.0\Task xy.pdb
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\obj\Debug\net6.0\Task xy.genruntimeconfig.cache
+C:\Users\TianYun\Documents\WeChat Files\wxid_4o9e3yw3njyk22\FileStorage\File\2023-11\Task xy(1)\Task xy\Task xy\obj\Debug\net6.0\ref\Task xy.dll
+C:\Users\black\OneDrive\Desktop\Task xy\Task xy\bin\Debug\net6.0\Task xy.exe
+C:\Users\black\OneDrive\Desktop\Task xy\Task xy\bin\Debug\net6.0\Task xy.deps.json
+C:\Users\black\OneDrive\Desktop\Task xy\Task xy\bin\Debug\net6.0\Task xy.runtimeconfig.json
+C:\Users\black\OneDrive\Desktop\Task xy\Task xy\bin\Debug\net6.0\Task xy.dll
+C:\Users\black\OneDrive\Desktop\Task xy\Task xy\bin\Debug\net6.0\Task xy.pdb
+C:\Users\black\OneDrive\Desktop\Task xy\Task xy\obj\Debug\net6.0\Task xy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\OneDrive\Desktop\Task xy\Task xy\obj\Debug\net6.0\Task xy.AssemblyInfoInputs.cache
+C:\Users\black\OneDrive\Desktop\Task xy\Task xy\obj\Debug\net6.0\Task xy.AssemblyInfo.cs
+C:\Users\black\OneDrive\Desktop\Task xy\Task xy\obj\Debug\net6.0\Task xy.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Desktop\Task xy\Task xy\obj\Debug\net6.0\Task xy.dll
+C:\Users\black\OneDrive\Desktop\Task xy\Task xy\obj\Debug\net6.0\refint\Task xy.dll
+C:\Users\black\OneDrive\Desktop\Task xy\Task xy\obj\Debug\net6.0\Task xy.pdb
+C:\Users\black\OneDrive\Desktop\Task xy\Task xy\obj\Debug\net6.0\Task xy.genruntimeconfig.cache
+C:\Users\black\OneDrive\Desktop\Task xy\Task xy\obj\Debug\net6.0\ref\Task xy.dll
